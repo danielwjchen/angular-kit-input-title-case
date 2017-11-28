@@ -10,4 +10,4 @@ nvm install 5
 ### NPM global packages
 ```
 npm install -g grunt-cli@1.2.0 grunt@0.4.5 npm@3.8.6
-```Angular
+```
